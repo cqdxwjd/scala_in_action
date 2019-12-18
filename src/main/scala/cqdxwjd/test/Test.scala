@@ -1,3 +1,5 @@
+package cqdxwjd.test
+
 object Test {
   def main(args: Array[String]): Unit = {
     var b = 'a' + 1

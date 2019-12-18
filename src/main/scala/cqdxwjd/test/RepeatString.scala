@@ -1,3 +1,5 @@
+package cqdxwjd.test
+
 object RepeatString {
   def main(args: Array[String]): Unit = {
     val str = "hello" * 3
